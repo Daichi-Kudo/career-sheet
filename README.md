@@ -2,35 +2,31 @@
 
 ## 基本情報
 
-|key|value|
+Name : Daichi Kudo
+
+|Service|Account|
 |---|-----|
-|Name|Daichi Kudo|
 |GitHub|[Daichi-Kudo](https://github.com/Daichi-Kudo)|
-|Qiita|[@a_drowning_apple](http://qiita.com/a_drowning_apple)|
-|Twitter|[pep65274869](https://twitter.com/pep65274869)|
 |Wantedly|[daichi_kudo_a](https://en-jp.wantedly.com/id/daichi_kudo_a)|
+|Twitter|[pep65274869](https://twitter.com/pep65274869)|
+|Facebook|[Daichi Kudo](https://www.facebook.com/daichi.kudo.3)|
+|Qiita|[@a_drowning_apple](http://qiita.com/a_drowning_apple)|
 
 ## スキル
 
 ### 言語
+|Langage|Details|Experience|
+|---|---|---|
+|HTML|HTML5|1.5 year|
+|CSS|SASS|1.5 year|
+|JavaScript|Vue.js|10 months|
+|JavaScript|jQuery|1 year|
+|Python|Django|1 year|
+|Python|DRF|10 months|
+|Ruby|Ruby on Rails|6 months|
+|Japanese|母国語|26 years|
+|English|second language|6 years? Business level|
 
-- HTML
-  - HTML5
-  - Slim
-- CSS
-  - SASS
-- JavaScript
-  - Vue.js
-  - jQuery
-- Python
-  - Django
-    - DRF
-- Ruby
-  - Ruby on Rails
-- 日本語
-  - ネイティブ
-- 英語
-  - ビジネスレベル
 
 ### フレームワーク
 #### 実務経験あり
