@@ -87,7 +87,7 @@ Name : Daichi Kudo
 |webアンケートシステム改修|・実装<br>・先方への報告|・非エンジニアに向けて、実装方法をテキストベースで解説|2|PG|Python<br>JavaScript<br>HTML<br>CSS|---|---|
 |営業支援ツール作成|・ヒアリング<br>・設計<br>・実装|・ヒアリング<br>・要望のシステム化<br>・ＧＵＩツールの作成|1|PG|Python<br>(BeautifulSoup/<br>PythonInstaller)|---|---|
 |集計ツール作成|・基本/詳細設計<br>・実装|・要望のシステム化<br>・ドキュメンテーション<br>・GCP環境の構築|2|PG|Python<br>（Functions Framework）<br>Javascript<br>HTML<br>CSS|PostgreSQL<br>Windows<br>Linux|Git<br>Docker<br>GCP<br>(VPC/Cloud Functions/<br>Cloud SQL/IAM)<br>Wordpress<br>Slack api<br>HubSpot api|
-|書籍管理WEBアプリ構築（OJT）|・ヒアリング/要件定義<br>・基本/詳細設計<br>・実装|・要件定義/ドキュメンテーション<br>・AWS環境構築|2|PG|Python<br>JavaScript(Vue.js)|PostgreSQL<br>Windows<br>Linux|Swagger<br>Git<br>Docker<br>Redmine<br>AWS<br>(S3/Lambda/<br>APIGateway/Aurora/<br>IAM/Route53/CloudWatch)|
+|書籍管理WEBアプリ構築（OJT）|・ヒアリング/要件定義<br>・基本/詳細設計<br>・実装|・要件定義/ドキュメンテーション<br>・AWS環境構築|2|PG|Python<br>JavaScript(Vue.js)|PostgreSQL<br>Windows<br>Linux|Swagger<br>Git<br>Docker<br>Redmine<br>AWS<br>(S3/Lambda/<br>APIGateway/<br>Aurora/IAM/<br>Route53/<br>CloudWatch)|
 |ブログアプリ構築（OJT）|・要件定義<br>・実装<br>・テスト|・要件定義/ドキュメンテーション<br>・実装<br>・仮想化技術|1|PG|Python<br>(Django REST Framework)<br>JavaScript(Vue.js)<br>HTML<br>CSS(Bootstrap)|MySQL<br>Ubuntu<br>Windows|Git<br>Docker<br>Redmine<br>VirtualBox|
 
 
