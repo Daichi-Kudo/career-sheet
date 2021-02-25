@@ -39,11 +39,13 @@ Name : Daichi Kudo
 |Ruby|Ruby on Rails|6 months|
 |Japanese|母国語|26 years|
 |English|second language|6 years? Business level|
+
 ### DB
 |DB|Experience|
 |---|---|
 |MySQL|10 months|
 |PostgresSQL|10 months|
+
 ### OS
 |OS|Detail|Experience|
 |---|---|---|
@@ -52,6 +54,7 @@ Name : Daichi Kudo
 |Linux|Ubuntu|10 months|
 |Linux|CentOS|2 months|
 |Linux|Debian|2 months|
+
 ### その他サービス
 |Service|Detail|Experience|
 |---|---|---|
@@ -62,6 +65,10 @@ Name : Daichi Kudo
 |Git|Github|10 months|
 |Git|Bitbucket|10 months|
 |Git|Gitlab|5 months|
+
+### 資格
+- 普通自動車免許
+- TOEIC 835
 
 ## 経歴
 ### 202004 ~ 現在 株式会社Fabeee
@@ -77,6 +84,7 @@ Name : Daichi Kudo
 |2020/10~2020/10<br>(1カ月)|集計ツール作成|CP環境にてサーバーレスアーキテクチャを採用したツール構築<br>・Slackや、HubSpotなどのAPIとの連携を実施|
 |2020/6~2021/1<br>(8カ月)|書籍管理WEBアプリ構築（OJT）|上長及び先輩社員からのレビューに基づき、AWS上でサーバーレスアーキテクチャを採用し、設計～デプロイ～テスト～運用まで実施|
 |2020/4~2020/7<br>(4カ月)|ブログアプリ構築（OJT）|OJTにて、SPA/REST APIの構成にてブログアプリを構築|
+
 #### プロジェクト詳細
 |プロジェクト名|担当業務|習得スキル/知見|メンバー数|役割|言語|DB/OS|ツール|
 |---|---|---|---|---|---|---|---|
@@ -92,7 +100,6 @@ Name : Daichi Kudo
 
 
 ### 201904 ~ 202003 ****株式会社マクロミル****
-
 |タイトル|概要|詳細|
 |---|---|---|
 |業務要約|---|1ヶ月の研修を経て、リサーチ営業本部に配属。営業部にて1ヶ月の研修を経て、実務を開始。<br>営業として、テレアポから商談を獲得し、先方の業務に最適な調査提案や調査データを選定し、商談を実施。<br>ヒアリングを元に先方の調査ニーズを掘り出し、その点に対して社内のサービスを掛け合わせ、マーケティングの課題を解決できる最適な商材としての調査を販売。|
@@ -108,4 +115,5 @@ Name : Daichi Kudo
 ### 201704 ~ 201903 ****株式会社コネット東京(アルバイト)****
 - 業務内容
     - NHKにて国際ニュースの英日翻訳業務を実施
+
 ### 201504 ~ 201903 ****明治大学政治経済学部****
