@@ -55,8 +55,8 @@ Name : Daichi Kudo
 ### その他サービス
 |Service|Detail|Experience|
 |---|---|---|
-|AWS|WIP|10 months|
-|GCP|WIP|3 months|
+|AWS|S3/Lambda/<br>APIGateway/Aurora/<br>IAM/Route53/CloudWatch|10 months|
+|GCP|VPC/Cloud Functions/<br>Cloud SQL/IAM|3 months|
 |Docker|Docker Compose|10 months|
 |Redmine|---|10 months|
 |Git|Github|10 months|
