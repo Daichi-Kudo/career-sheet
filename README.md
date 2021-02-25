@@ -65,7 +65,7 @@ Name : Daichi Kudo
 
 ## 経歴
 ### 202004 ~ 現在
-株式会社Fabeee
+****株式会社Fabeee****
 #### プロジェクト一覧
 |プロジェクト名|内容|
 |---|---|
@@ -91,10 +91,9 @@ Name : Daichi Kudo
 |書籍管理WEBアプリ構築（OJT）|・ヒアリング/要件定義<br>・基本/詳細設計<br>・実装|・要件定義/ドキュメンテーション<br>・AWS環境構築|2|PG|Python<br>JavaScript(Vue.js)|PostgreSQL<br>Windows<br>Linux|Swagger<br>Git<br>Docker<br>Redmine<br>AWS<br>(S3/Lambda/<br>APIGateway/Aurora/<br>IAM/Route53/CloudWatch)|
 |ブログアプリ構築（OJT）|・要件定義<br>・実装<br>・テスト|・要件定義/ドキュメンテーション<br>・実装<br>・仮想化技術|1|PG|Python<br>(Django REST Framework)<br>JavaScript(Vue.js)<br>HTML<br>CSS(Bootstrap)|MySQL<br>Ubuntu<br>Windows|Git<br>Docker<br>Redmine<br>VirtualBox|
 
-#### スキル
 
 ### 201904 ~ 202003
-株式会社マクロミル
+****株式会社マクロミル****
 |タイトル|概要|詳細|
 |---|---|---|
 |業務要約|---|1ヶ月の研修を経て、リサーチ営業本部に配属。営業部にて1ヶ月の研修を経て、実務を開始。<br>営業として、テレアポから商談を獲得し、先方の業務に最適な調査提案や調査データを選定し、商談を実施。<br>ヒアリングを元に先方の調査ニーズを掘り出し、その点に対して社内のサービスを掛け合わせ、マーケティングの課題を解決できる最適な商材としての調査を販売。|
@@ -108,8 +107,8 @@ Name : Daichi Kudo
 |獲得スキル|国際的視点|学生時代のアルバイトとして留学経験を活かし、<br>NHK にて社員と同様のニュース翻訳業務を行っていたので、英語と国際情勢についての知悉がある。|
 
 ### 201704 ~ 201903
-株式会社コネット東京(アルバイト)
+****株式会社コネット東京(アルバイト)****
 - 業務内容
     - NHKにて国際ニュースの英日翻訳業務を実施
 ### 201504 ~ 201903
-明治大学政治経済学部
+****明治大学政治経済学部****
