@@ -90,7 +90,7 @@ Name : Daichi Kudo
 |プロジェクト名|担当業務|習得スキル/知見|メンバー数|役割|言語|DB/OS|ツール|
 |---|---|---|---|---|---|---|---|
 |電子カルテ改修|・既存機能改修/拡張<br>・バグ修正|・既存アプリのソースコード理解力<br>・電子カルテ基礎知識|3|PG|Python<br>(Django REST Framework)<br>JavaScript(Vue.js)<br>HTML<br>CSS|PostgreSQL<br>Linux|Git<br>Docker<br>Redmine<br>WSL<br>Cron|
-|メディアデータ分析|・データ分析<br>・資料作成<br>・結果報告|・pythonを用いた集計・形態素解析<br>・報告資料作成<br>・データ分析力|1|DS|python<br>(Mecab/sklearn/pandas)|---|Excel/PowerPoint|
+|メディアデータ分析|・データ分析<br>・資料作成<br>・結果報告|・pythonを用いた集計・形態素解析<br>・報告資料作成<br>・データ分析力|1|DS|python<br>(Mecab/<br>sklearn/<br>pandas)|---|Excel/PowerPoint|
 |メディアSSL化|・実装<br>・ドキュメンテーション|・SSL化への改修<br>・サイト構成図作成|2|PG|PHP<br>HTML<br>CSS|---|Git<br>EzPublish|
 |脳波可視化webアプリケーション改修|・実装<br>・ドキュメンテーション|・既存ソースコード理解から実装への転用<br>・Dockerの拡張<br>・Ldapの導入<br>・先方へ提示する用途のドキュメント作成|2|PG|Python(Django)<br>Javascript<br>HTML<br>CSS|MySQL<br>Ubuntu<br>Windows|Git<br>Docker<br>PHPLdapAdmin|
 |飲食店向けERPシステム構築|・実装|・既存ソースコード理解から実装への転用|2|PG|Python<br>JavaScript<br>HTML<br>CSS|---|---|
