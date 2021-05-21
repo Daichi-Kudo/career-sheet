@@ -95,8 +95,8 @@ Name : Daichi Kudo
 #### プロジェクト詳細
 |プロジェクト名|担当業務|習得スキル/知見|メンバー数|役割|言語|DB/OS|ツール|
 |---|---|---|---|---|---|---|---|
-|歯科医来院患者データ解析及びHR関連調査|・顧客折衝<br>・要件定義<br>・データ集計・分析<br>・資料作成<br>・結果報告<br>・施策提言<br>・KPI観測<br>・各種調査|・pythonを用いた集計・可視化・分析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|3|DS/PM|python<br>(folium/<br>sklearn/<br>pandas)|---|GCP(各種API)/GoogleSlide/Adwards/GA/先方導入ツール/csv|
-|メディアデータ分析|・顧客折衝<br>・要件定義<br>・データ分析<br>・資料作成<br>・結果報告<br>・DWH構築|・pythonを用いた集計・形態素解析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|2|DS/PM|python<br>(Mecab/<br>sklearn/<br>pandas)|---|GCP(各種API)/Excel/PowerPoint|
+|歯科医来院患者データ解析及びHR関連調査|・顧客折衝<br>・要件定義<br>・データ集計・分析<br>・資料作成<br>・結果報告<br>・施策提言<br>・KPI観測<br>・各種調査|・pythonを用いた集計・可視化・分析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|3|DS/PM|python<br>(folium/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>GoogleSlide<br>Adwards<br>GA<br>Colab<br>先方導入ツール<br>csv|
+|メディアデータ分析|・顧客折衝<br>・要件定義<br>・データ分析<br>・資料作成<br>・結果報告<br>・DWH構築|・pythonを用いた集計・形態素解析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|2|DS/PM|python<br>(Mecab/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>Colab/Excel/PowerPoint|
 |電子カルテ改修|・既存機能改修/拡張<br>・バグ修正|・既存アプリのソースコード理解力<br>・電子カルテ基礎知識|3|PG|Python<br>(Django REST Framework)<br>JavaScript(Vue.js)<br>HTML<br>CSS|PostgreSQL<br>Linux|Git<br>Docker<br>Redmine<br>WSL<br>Cron|
 |メディアSSL化|・実装<br>・ドキュメンテーション|・SSL化への改修<br>・サイト構成図作成|2|PG|PHP<br>HTML<br>CSS|---|Git<br>EzPublish|
 |脳波可視化webアプリケーション改修|・実装<br>・ドキュメンテーション|・既存ソースコード理解から実装への転用<br>・Dockerの拡張<br>・Ldapの導入<br>・先方へ提示する用途のドキュメント作成|2|PG|Python(Django)<br>Javascript<br>HTML<br>CSS|MySQL<br>Ubuntu<br>Windows|Git<br>Docker<br>PHPLdapAdmin|
