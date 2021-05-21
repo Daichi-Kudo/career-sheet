@@ -95,7 +95,7 @@ Name : Daichi Kudo
 #### プロジェクト詳細
 |プロジェクト名|担当業務|習得スキル/知見|メンバー数|役割|言語|DB/OS|ツール|
 |---|---|---|---|---|---|---|---|
-|歯科医来院患者データ解析及びHR関連調査|・顧客折衝<br>・要件定義<br>・データ集計・分析<br>・資料作成<br>・結果報告<br>・施策提言<br>・KPI観測<br>・各種調査|・pythonを用いた集計・可視化・分析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|3|DS/PM|python<br>(folium/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>GoogleSlide<br>Adwards<br>GA<br>Colab<br>先方導入ツール<br>csv|
+|歯科医来院患者データ解析及びHR関連調査|・顧客折衝<br>・要件定義<br>・データ集計/分析<br>・資料作成<br>・結果報告<br>・施策提言<br>・KPI観測<br>・各種調査|・pythonを用いた集計・可視化・分析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|3|DS/PM|python<br>(folium/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>GoogleSlide<br>Adwards<br>GA<br>Colab<br>先方導入ツール<br>csv|
 |メディアデータ分析|・顧客折衝<br>・要件定義<br>・データ分析<br>・資料作成<br>・結果報告<br>・DWH構築|・pythonを用いた集計・形態素解析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|2|DS/PM|python<br>(Mecab/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>Colab/Excel/PowerPoint|
 |電子カルテ改修|・既存機能改修/拡張<br>・バグ修正|・既存アプリのソースコード理解力<br>・電子カルテ基礎知識|3|PG|Python<br>(Django REST Framework)<br>JavaScript(Vue.js)<br>HTML<br>CSS|PostgreSQL<br>Linux|Git<br>Docker<br>Redmine<br>WSL<br>Cron|
 |メディアSSL化|・実装<br>・ドキュメンテーション|・SSL化への改修<br>・サイト構成図作成|2|PG|PHP<br>HTML<br>CSS|---|Git<br>EzPublish|
@@ -106,6 +106,8 @@ Name : Daichi Kudo
 |集計ツール作成|・基本/詳細設計<br>・実装|・要望のシステム化<br>・ドキュメンテーション<br>・GCP環境の構築|2|PG|Python<br>（Functions Framework）<br>Javascript<br>HTML<br>CSS|PostgreSQL<br>Windows<br>Linux|Git<br>Docker<br>GCP<br>(VPC/Cloud Functions/<br>Cloud SQL/IAM)<br>Wordpress<br>Slack api<br>HubSpot api|
 |書籍管理WEBアプリ構築（OJT）|・ヒアリング/要件定義<br>・基本/詳細設計<br>・実装|・要件定義/ドキュメンテーション<br>・AWS環境構築|2|PG|Python<br>JavaScript(Vue.js)|PostgreSQL<br>Windows<br>Linux|Swagger<br>Git<br>Docker<br>Redmine<br>AWS<br>(S3/Lambda/<br>APIGateway/<br>Aurora/IAM/<br>Route53/<br>CloudWatch)|
 |ブログアプリ構築（OJT）|・要件定義<br>・実装<br>・テスト|・要件定義/ドキュメンテーション<br>・実装<br>・仮想化技術|1|PG|Python<br>(Django REST Framework)<br>JavaScript(Vue.js)<br>HTML<br>CSS(Bootstrap)|MySQL<br>Ubuntu<br>Windows|Git<br>Docker<br>Redmine<br>VirtualBox|
+|---|spacespacespace|---|---|---|---|---|---|
+
 
 
 ### 201904 ~ 202003 ****株式会社マクロミル****
