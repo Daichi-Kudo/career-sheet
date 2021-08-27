@@ -22,9 +22,9 @@ Name : Daichi Kudo
 |Business|Detail|Experience|
 |---|---|---|
 |調査分析|---|1 year|
-|要件定義|---|6 months|
-|基本設計|---|6 months|
-|詳細設計|---|6 months|
+|要件定義|---|1 year|
+|基本設計|---|1 year|
+|詳細設計|---|1 year|
 |コーディング|---|1.5 year|
 |単体・結合テスト|---|2 months|
 |運用・保守|---|4 month|
@@ -39,7 +39,7 @@ Name : Daichi Kudo
 |CSS|SASS|1.5 year|
 |JavaScript|Vue.js|1 year|
 |JavaScript|jQuery|1 year|
-|Python|Django|1 year|
+|Python|Django|1.5 year|
 |Python|DRF|1 year|
 |Ruby|Ruby on Rails|6 months|
 |Japanese|母国語|26 years|
@@ -48,15 +48,15 @@ Name : Daichi Kudo
 ### DB
 |DB|Experience|
 |---|---|
-|MySQL|1 year|
-|PostgresSQL|1 year|
+|MySQL|1.5 year|
+|PostgresSQL|1.5 year|
 
 ### OS
 |OS|Detail|Experience|
 |---|---|---|
-|Windows|---|1 year|
+|Windows|---|1.5 year|
 |Mac|---|1 year|
-|Linux|Ubuntu|1 year|
+|Linux|Ubuntu|1.5 year|
 |Linux|CentOS|3 months|
 |Linux|Debian|3 months|
 
@@ -64,11 +64,11 @@ Name : Daichi Kudo
 |Service|Detail|Experience|
 |---|---|---|
 |AWS|S3/Lambda/<br>APIGateway/Aurora/<br>IAM/Route53/CloudWatch|1 year|
-|GCP|VPC/Cloud Functions/<br>Cloud SQL/IAM|1 year|
+|GCP|VPC/Cloud Functions/<br>Cloud SQL/IAM|1.5 year|
 |Docker|Docker Compose|1 year|
-|Redmine|---|1 year|
-|Git|Github|1 year|
-|Git|Bitbucket|1 year|
+|Redmine|---|1.5 year|
+|Git|Github|1.5 year|
+|Git|Bitbucket|1 .5year|
 |Git|Gitlab|6 months|
 
 ### 資格
@@ -80,8 +80,9 @@ Name : Daichi Kudo
 #### プロジェクト一覧
 |期間|プロジェクト名|内容|
 |---|---|---|
-|2021/4~現在<br>(2ヶ月)|歯科医来院患者データ解析及びHR関連調査|・先方ツールよりデータの収集・クリーニング・集計・可視化・分析・報告を実施<br>・報告内容からマーケティング施策の提言実施|
-|2021/2~現在<br>(4ヶ月)|メディアデータ分析及びDWH構築|・Excelデータから(PV数/CTR/掲載時期/タイトル等について)分析資料を作成<br>・記事タイトルの形態素解析を用い、傾向分析を実施<br>・分析結果報告を実施<br>・DWHを構築予定|
+|2021/7~現在<br>(2ヶ月)|社労士向け検索システム構築及びPOC|・slackよりデータの収集・クリーニング<br>・形態素解析・TFIDF・LDA及びルールベースによるデータ分類<br>・BI構築|
+|2021/4~現在<br>(5ヶ月)|歯科医来院患者データ解析及びHR関連調査|・先方ツールよりデータの収集・クリーニング・集計・可視化・分析・報告を実施<br>・報告内容からマーケティング施策の提言実施|
+|2021/2~現在<br>(7ヶ月)|メディアデータ分析及びDWH構築及び|・LDA/W2V/ANNによる検索システム構築<br>・Excelデータから(PV数/CTR/掲載時期/タイトル等について)分析資料を作成<br>・記事タイトルの形態素解析を用い、傾向分析を実施<br>・分析結果報告を実施<br>・DWHを構築予定|
 |2020/8~2021/2<br>(7カ月)|電子カルテ改修|・Django/Vue.jsで作成されたWEBアプリの改修/拡張<br>・リリース済プロジェクトに参画し、不具合修正や機能の追加修正を実施<br>・定期実行バッチ処理の作成<br>・引き継ぎ資料の作成(インフラ構成図/バッチ処理説明書/SwaggerUI/画面項目書)|
 |2021/2~2021/2<br>(1カ月)|メディアSSL化|・メディア運営会社の1メディアのSSL化を実施<br>・サイトページ一覧や改修箇所を明確にするドキュメントを作成|
 |2021/1~2021/2<br>(2カ月)|脳波可視化webアプリケーション改修|・既存アプリケーションの認証をOpenLdapを利用した認証に変更<br>・変更箇所のDockerへの反映<br>・DB設計図/ディレクトリ構成/アプリケーションの操作マニュアル/デプロイ手順書作成|
@@ -95,8 +96,9 @@ Name : Daichi Kudo
 #### プロジェクト詳細
 |プロジェクト名|担当業務|習得スキル/知見|メンバー数|役割|言語|DB/OS|ツール|
 |---|---|---|---|---|---|---|---|
+|社労士向け検索システム構築|・顧客折衝<br>・要件定義<br>・データ分析<br>・資料作成<br>・結果報告<br>|・pythonを用いた集計・形態素解析<br>・TFIDF/LDA/ルールベースによる自然言語カテゴリ分類<br>・報告資料作成<br>・データ分析力|2|DS/PM|python<br>(Mecab/<br>gensim/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>Colab<br>Notion API<br>SLACK API<br>GAS<br>DataPortal|
 |歯科医来院患者データ解析及びHR関連調査|・顧客折衝<br>・要件定義<br>・データ集計/分析<br>・資料作成<br>・結果報告<br>・施策提言<br>・KPI観測<br>・各種調査|・pythonを用いた集計・可視化・分析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|3|DS/PM|python<br>(folium/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>GoogleSlide<br>Adwards<br>GA<br>Colab<br>先方導入ツール<br>csv|
-|メディアデータ分析|・顧客折衝<br>・要件定義<br>・データ分析<br>・資料作成<br>・結果報告<br>・DWH構築|・pythonを用いた集計・形態素解析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|2|DS/PM|python<br>(Mecab/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>Colab/Excel/PowerPoint|
+|メディアデータ分析|・顧客折衝<br>・要件定義<br>・データ分析<br>・資料作成<br>・結果報告<br>・DWH構築|・pythonを用いた集計・形態素解析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|2|DS/PM|python<br>(Mecab/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>DataPortal<br>Colab/Excel/PowerPoint|
 |電子カルテ改修|・既存機能改修/拡張<br>・バグ修正|・既存アプリのソースコード理解力<br>・電子カルテ基礎知識|3|PG|Python<br>(Django REST Framework)<br>JavaScript(Vue.js)<br>HTML<br>CSS|PostgreSQL<br>Linux|Git<br>Docker<br>Redmine<br>WSL<br>Cron|
 |メディアSSL化|・実装<br>・ドキュメンテーション|・SSL化への改修<br>・サイト構成図作成|2|PG|PHP<br>HTML<br>CSS|---|Git<br>EzPublish|
 |脳波可視化webアプリケーション改修|・実装<br>・ドキュメンテーション|・既存ソースコード理解から実装への転用<br>・Dockerの拡張<br>・Ldapの導入<br>・先方へ提示する用途のドキュメント作成|2|PG|Python(Django)<br>Javascript<br>HTML<br>CSS|MySQL<br>Ubuntu<br>Windows|Git<br>Docker<br>PHPLdapAdmin|
