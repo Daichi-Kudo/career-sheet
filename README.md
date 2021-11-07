@@ -13,6 +13,7 @@ Name : Daichi Kudo
 |Qiita|[@a_drowning_apple](http://qiita.com/a_drowning_apple)|
 
 ## 経歴概略
+- 下記と並行し、業務の請負などを実施。
 - 現在はデータアナリストとしてFabeee株式会社に従事。
 - 2020/04にWEBエンジニアとして、Fabeee株式会社に転職。
 - 2019/04 ~ 2020/03まで、マーケティングリサーチ営業として、株式会社マクロミルに従事。
@@ -43,6 +44,7 @@ Name : Daichi Kudo
 |Python|DRF|1 year|
 |Python|Flask|1 year|
 |Ruby|Ruby on Rails|6 months|
+|Ruby|Liquid|3 months|
 |Japanese|母国語|26 years|
 |English|second language|6 years? Business level|
 
@@ -66,6 +68,7 @@ Name : Daichi Kudo
 |---|---|---|
 |AWS|S3/Lambda/<br>APIGateway/Aurora/<br>IAM/Route53/CloudWatch|1 year|
 |GCP|Big Query/GCS/GCE/<br>Api Gateway/Pub・Sub/<br>Scheduler/AI Platform<br>VPC/Cloud Functions/<br>Cloud SQL/IAM|1.5 year|
+|Shopify|---|3 months|
 |Docker|Docker Compose|1 year|
 |Redmine|---|1.5 year|
 |Git|Github|1.5 year|
@@ -111,6 +114,20 @@ Name : Daichi Kudo
 |ブログアプリ構築（OJT）|・要件定義<br>・実装<br>・テスト|・要件定義/ドキュメンテーション<br>・実装<br>・仮想化技術|1|PG|Python<br>(Django REST Framework)<br>JavaScript(Vue.js)<br>HTML<br>CSS(Bootstrap)|MySQL<br>Ubuntu<br>Windows|Git<br>Docker<br>Redmine<br>VirtualBox|
 |---|spacespacespace|---|---|---|---|---|---|
 
+
+### 202004 ~ 現在 ****個人請負****
+#### プロジェクト一覧
+|期間|プロジェクト名|内容|
+|---|---|---|
+|2021/8~11<br>(3ヶ月)|店舗向けHP兼ECサイト構築|・HP構築/・Shopifyによるデザインに適合したECサイトの構築|
+|2021/7~8<br>(1ヶ月)|不動産向けHPの構築|・HP構築|
+|2021/2~5<br>(4ヶ月)|保育園向け献立ツール構築|・VBAを用いたツール構築|
+#### プロジェクト詳細
+|プロジェクト名|担当業務|習得スキル/知見|メンバー数|役割|言語|DB/OS|ツール|
+|---|---|---|---|---|---|---|---|
+|店舗向けHP兼ECサイト構築|・顧客折衝<br>・Shopify店舗構築及びデザインテンプレート構築<br>・マニュアル作成|・Liquidを用いたECサイト構築<br>・マニュアル作成|3|PM/Coder|Ruby(Liquid)|---|Shopify<br>Github|
+|不動産向けHPの構築|・顧客折衝<br>・HP構築|・マークアップスキル<br>・デプロイ|3|PM/Coder|マークアップ各種|---|---|
+|保育園向け献立ツール構築|・顧客折衝<br>・VBAを用いたツール構築<br>・マニュアル作成|・VBA<br>・マニュアル作成|1|PM/Coder|VBA|---|Excel|
 
 
 ### 201904 ~ 202003 ****株式会社マクロミル****
