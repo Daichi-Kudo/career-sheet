@@ -8,6 +8,7 @@ Name : Daichi Kudo
 |---|-----|
 |GitHub|[Daichi-Kudo](https://github.com/Daichi-Kudo)|
 |Wantedly|[daichi_kudo_a](https://en-jp.wantedly.com/id/daichi_kudo_a)こちらに、学生時代の活動などの概略が記載されております。|
+|LinkedIn|[工藤 大地](https://www.linkedin.com/in/%E5%A4%A7%E5%9C%B0-%E5%B7%A5%E8%97%A4-6434431a0/)|
 |Twitter|[pep65274869](https://twitter.com/pep65274869)|
 |Facebook|[Daichi Kudo](https://www.facebook.com/daichi.kudo.3)|
 |Qiita|[@a_drowning_apple](http://qiita.com/a_drowning_apple)|
