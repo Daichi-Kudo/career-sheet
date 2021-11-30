@@ -112,7 +112,7 @@ Name : Daichi Kudo
 |プロジェクト名|担当業務|習得スキル/知見|メンバー数|役割|言語|DB/OS|ツール|
 |---|---|---|---|---|---|---|---|
 |社労士向け検索システム構築|・顧客折衝<br>・要件定義<br>・データ分析<br>・資料作成<br>・結果報告<br>・システム構築|・pythonを用いた集計・形態素解析<br>・TFIDF/LDA/ルールベースによる自然言語カテゴリ分類<br>・報告資料作成<br>・データ分析力<br>・ダッシュボード構築<br>・デプロイ|3|DS/PM|python<br>(Flask/<br>Mecab/<br>gensim/<br>sklearn/<br>pandas)<br>Javascript(Vue)|---|GCP(各種API)<br>Colab<br>Notion API<br>SLACK API<br>GAS<br>DataPortal|
-|歯科医来院患者データ解析/HR関連調査|・顧客折衝<br>・要件定義<br>・データ集計/分析<br>・資料作成<br>・結果報告<br>・施策提言<br>・KPI観測<br>・各種調査|・pythonを用いた集計・可視化・分析<br>・報告資料作成<br>・データ分析力<br>・DWH構築|3|DS/PM|python<br>(folium/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>GoogleSlide<br>Adwards<br>GA<br>Colab<br>先方導入ツール<br>csv|
+|歯科医来院患者データ解析/HR関連調査|・顧客折衝<br>・要件定義<br>・データ集計/分析<br>・資料作成<br>・結果報告<br>・施策提言<br>・KPI観測<br>・各種調査|・pythonを用いた集計・可視化・分析<br>・報告資料作成<br>・データ分析力|3|DS/PM|python<br>(folium/<br>sklearn/<br>pandas)|---|GCP(各種API)<br>GoogleSlide<br>Adwards<br>GA<br>Colab<br>先方導入ツール<br>csv|
 |メディアデータ分析|・顧客折衝<br>・要件定義<br>・データ分析<br>・資料作成<br>・結果報告<br>・システム構築<br>・デプロイ<br>・保守運用|・pythonを用いた集計・形態素解析<br>・報告資料作成<br>・データ分析力<br>・システム構築<br>・デプロイ<br>・保守運用|3|DS/PM|python<br>(Flask/Mecab/<br>sklearn/<br>pandas)Javascript(Vue)|---|GCP(各種API)<br>DataPortal<br>Colab/Excel/PowerPoint|
 |電子カルテ改修|・既存機能改修/拡張<br>・バグ修正|・既存アプリのソースコード理解力<br>・電子カルテ基礎知識|3|PG|Python<br>(Django REST Framework)<br>JavaScript(Vue.js)<br>HTML<br>CSS|PostgreSQL<br>Linux|Git<br>Docker<br>Redmine<br>WSL<br>Cron|
 |メディアSSL化|・実装<br>・ドキュメンテーション|・SSL化への改修<br>・サイト構成図作成|2|PG|PHP<br>HTML<br>CSS|---|Git<br>EzPublish|
