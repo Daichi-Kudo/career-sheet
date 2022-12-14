@@ -15,7 +15,8 @@ Name : Daichi Kudo
 
 ## 経歴概略
 - 下記と並行し、業務の請負などを実施。
-- 現在はデータアナリストとしてFabeee株式会社に従事。
+- 2022/01 ~ 現在はWEBエンジニアとして個人事業主として受託開発を実施。
+- 2020/10 ~ 2021/12データアナリスト兼WEBエンジニアとしてFabeee株式会社に従事。
 - 2020/04にWEBエンジニアとして、Fabeee株式会社に転職。
 - 2019/04 ~ 2020/03まで、マーケティングリサーチ営業として、株式会社マクロミルに従事。
 
@@ -34,12 +35,12 @@ Name : Daichi Kudo
 |Business|Detail|Experience|
 |---|---|---|
 |調査分析|---|1 year|
-|要件定義|---|1 year|
-|基本設計|---|1 year|
-|詳細設計|---|1 year|
-|コーディング|---|1.5 year|
+|要件定義|---|2 year|
+|基本設計|---|2 year|
+|詳細設計|---|2 year|
+|コーディング|---|2.5 year|
 |単体・結合テスト|---|2 months|
-|運用・保守|---|4 month|
+|運用・保守|---|7 month|
 |ToB営業|マーケティングリサーチ販売(テレアポ/商談/提案/リサーチ結果報告など)|1 year|
 |資料作成|提案資料/DB設計書/アプリマニュアル/デプロイマニュアルなど|2 years|
 |提案プレゼン|---|1 year|
@@ -47,43 +48,43 @@ Name : Daichi Kudo
 ### 言語
 |Langage|Detail|Experience|
 |---|---|---|
-|HTML|HTML5|1.5 year|
-|CSS|SASS|1.5 year|
+|HTML|HTML5|2.5 year|
+|CSS|SASS|2.5 year|
 |JavaScript|Vue.js|1.5 year|
-|JavaScript|jQuery|1.5 year|
-|Python|Django|1.5 year|
+|JavaScript|jQuery|2.5 year|
+|Python|Django|2.5 year|
 |Python|DRF|1 year|
 |Python|Flask|1 year|
 |Ruby|Ruby on Rails|6 months|
 |Ruby|Liquid|3 months|
-|Japanese|母国語|26 years|
+|Japanese|母国語|28 years|
 |English|second language|6 years? Business level|
 
 ### DB
 |DB|Experience|
 |---|---|
-|MySQL|1.5 year|
-|PostgresSQL|1.5 year|
+|MySQL|2.5 year|
+|PostgresSQL|2.5 year|
 
 ### OS
 |OS|Detail|Experience|
 |---|---|---|
-|Windows|---|1.5 year|
+|Windows|---|2.5 year|
 |Mac|---|1 year|
 |Linux|Ubuntu|1.5 year|
-|Linux|CentOS|3 months|
-|Linux|Debian|3 months|
+|Linux|CentOS|6 months|
+|Linux|Debian|6 months|
 
 ### その他サービス
 |Service|Detail|Experience|
 |---|---|---|
-|AWS|S3/Lambda/<br>APIGateway/Aurora/<br>IAM/Route53/CloudWatch|1 year|
-|GCP|Big Query/GCS/GCE/<br>Api Gateway/Pub・Sub/<br>Scheduler/AI Platform<br>VPC/Cloud Functions/<br>Cloud SQL/IAM|1.5 year|
+|AWS|S3/Lambda/<br>APIGateway/Aurora/<br>IAM/Route53/CloudWatch/etc...|2 year|
+|GCP|Big Query/GCS/GCE/<br>Api Gateway/Pub・Sub/<br>Scheduler/AI Platform<br>VPC/Cloud Functions/<br>Cloud SQL/IAM/etc...|2 year|
 |Shopify|---|3 months|
-|Docker|Docker Compose|1 year|
+|Docker|Docker Compose|2 year|
 |Redmine|---|1.5 year|
-|Git|Github|1.5 year|
-|Git|Bitbucket|1.5year|
+|Git|Github|2.5 year|
+|Git|Bitbucket|2.5year|
 |Git|Gitlab|6 months|
 
 ### 資格
@@ -91,12 +92,20 @@ Name : Daichi Kudo
 - TOEIC 835
 
 ## 経歴
-### 202004 ~ 現在 Fabeee株式会社
+### 202201 ~ 現在 個人事業主
 #### プロジェクト一覧
 |期間|プロジェクト名|内容|
 |---|---|---|
-|2021/7~現在<br>(4ヶ月)|社労士向け検索システム構築/POC|・slackよりデータの収集/クリーニング<br>・形態素解析/TFIDF/LDA及びルールベースによるデータ分類<br>・BI構築|
-|2021/4~現在<br>(7ヶ月)|リスティング広告運用/歯科医来院患者データ解析/HR関連調査|・先方ツールよりデータの収集・クリーニング・集計・可視化・分析・報告を実施<br>・報告内容からマーケティング施策の提言実施|
+|2022/1~現在<br>(11ヶ月)|医薬業界向けシステムの開発|・各種サービスの設計・AWSの通知関連サービス及びKinesisなどを用いた開発・Lambdaを用いた開発|
+|2022/1~現在<br>(11ヶ月)|メディア企業向けシステムの開発・改修・データ収集|・PHPシステムをpythonへ変更・オンプレからGCP環境への移行|
+|2022/1~2022/4<br>(3ヶ月)|音声著作権管理システムの改修・運用|・youtube APIを用いたwebシステム開発|
+
+### 202004 ~ 202112 Fabeee株式会社
+#### プロジェクト一覧
+|期間|プロジェクト名|内容|
+|---|---|---|
+|2021/7~2021/12<br>(5ヶ月)|社労士向け検索システム構築/POC|・slackよりデータの収集/クリーニング<br>・形態素解析/TFIDF/LDA及びルールベースによるデータ分類<br>・BI構築|
+|2021/4~2021/12<br>(8ヶ月)|リスティング広告運用/歯科医来院患者データ解析/HR関連調査|・先方ツールよりデータの収集・クリーニング・集計・可視化・分析・報告を実施<br>・報告内容からマーケティング施策の提言実施|
 |2021/2~現在<br>(9ヶ月)|メディアデータ分析/<br>エディタサポート用途の検索システムを構築|・検索システム構築<br>(手法：LDA/W2V/ANN・<br>利用サービス：GCP各種サービス/Adwards API/<br>GA API/Custom Search API/Twitter API等)<br>・検索システムデプロイ/保守運用<br>・Excelデータから(PV数/CTR/掲載時期/タイトル等について)分析資料を作成<br>・記事タイトルの形態素解析を用い、傾向分析を実施<br>・分析結果報告を実施|
 |2020/8~2021/2<br>(7カ月)|電子カルテ改修|・Django/Vue.jsで作成されたWEBアプリの改修/拡張<br>・リリース済プロジェクトに参画し、不具合修正や機能の追加修正を実施<br>・定期実行バッチ処理の作成<br>・引き継ぎ資料の作成(インフラ構成図/バッチ処理説明書/SwaggerUI/画面項目書)|
 |2021/2~2021/2<br>(1カ月)|メディアSSL化|・メディア運営会社の1メディアのSSL化を実施<br>・サイトページ一覧や改修箇所を明確にするドキュメントを作成|
@@ -126,7 +135,7 @@ Name : Daichi Kudo
 |---|spacespacespace|---|---|---|---|---|---|
 
 
-### 202004 ~ 現在 ****個人請負****
+### 202004 ~ 202112 ****個人請負****
 #### プロジェクト一覧
 |期間|プロジェクト名|内容|
 |---|---|---|
