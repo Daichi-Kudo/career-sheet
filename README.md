@@ -1,6 +1,6 @@
 # 日本語版
 
-[English ver.](#English-ver.)
+[English ver.](#English)
 
 ## 職務経歴書
 ### 基本情報
@@ -168,7 +168,7 @@ Name : 工藤 大地(Daichi Kudo)
 
 #### 201504 ~ 201903 ****明治大学政治経済学部****
 
-# English ver.
+# English
 
 [日本語版](#日本語版)
 
