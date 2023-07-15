@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-Name : Daichi Kudo
+Name : 工藤 大地(Daichi Kudo)
 
 |Service|Account|
 |---|-----|
