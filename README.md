@@ -6,12 +6,8 @@ Name : Daichi Kudo
 
 |Service|Account|
 |---|-----|
-|GitHub|[Daichi-Kudo](https://github.com/Daichi-Kudo)|
 |Wantedly|[daichi_kudo_a](https://en-jp.wantedly.com/id/daichi_kudo_a)こちらに、学生時代の活動などの概略が記載されております。|
 |LinkedIn|[工藤 大地](https://www.linkedin.com/in/%E5%A4%A7%E5%9C%B0-%E5%B7%A5%E8%97%A4-6434431a0/)|
-|Twitter|[pep65274869](https://twitter.com/pep65274869)|
-|Facebook|[Daichi Kudo](https://www.facebook.com/daichi.kudo.3)|
-|Qiita|[@a_drowning_apple](http://qiita.com/a_drowning_apple)|
 
 ## 経歴概略
 - 下記と並行し、業務の請負などを実施。
@@ -96,8 +92,8 @@ Name : Daichi Kudo
 #### プロジェクト一覧
 |期間|プロジェクト名|内容|
 |---|---|---|
-|2022/1~現在<br>(1年半)|医薬業界向けシステムの開発|・各種サービスの設計・AWSの通知関連サービス及びKinesisなどを用いた開発・Lambdaを用いた開発・クライアントAPI及びサードパーティAPIを用いた開発|
-|2022/1~現在<br>(1年半)|メディア企業向けシステムの開発・改修・データ収集|・PHPシステムをpythonへ変更・オンプレからGCP環境への移行|
+|2022/1~現在<br>(1年半)|医薬業界向けシステムの開発(×4)|・各種サービスの設計・AWSの通知関連サービス及びKinesisなどを用いた開発・Lambdaを用いた開発・クライアントAPI及びサードパーティAPIを用いた開発|
+|2022/1~現在<br>(1年半)|メディア企業向けシステムの開発・改修・データ収集(×4)|・PHPシステムをpythonへ変更・オンプレからGCP環境への移行・類似記事抽出機能作成・データ(SNS/media/youtube)分析基盤作成|
 |2022/1~2022/4<br>(3ヶ月)|音声著作権管理システムの改修・運用|・youtube APIを用いたwebシステム開発|
 
 ### 202004 ~ 202112 Fabeee株式会社
